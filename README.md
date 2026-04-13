@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Vyankatesh
 
-<!--
-**vyankatesh2002/vyankatesh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | Building Real Projects  
+💡 Creator of Vynora & Vandvik  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- React (Learning)
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+- 🔢 Calculator
+- ✅ To-Do App
+- 🌐 Business Websites
+- 🚴 Vynora Ride Platform
+
+---
+
+## 📈 Goals
+- Join IT Company
+- Build Strong Portfolio
+- Launch My Own Tech Company
+
+---
+
+## 📫 Contact
+- 🌐 Portfolio: https://vyankatesh2002.github.io/
+- 📱 WhatsApp: +91XXXXXXXXXX
+
+---
+
+🔥 "I don’t just learn — I build."
