@@ -32,30 +32,36 @@ Now I create performance-driven websites and am moving towards full-stack develo
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
+**Frontend**
 HTML5 · CSS3 · JavaScript (ES6+)
 
-**Tools:**
+**Tools**
 Git · GitHub · Figma · SEO
 
 ---
 
 ## 🚀 Projects
 
-### 🧮 Calculator
+### 🧮 Smart Calculator
 
 🔗 https://github.com/vyankatesh2002/Calculator
-→ Real-time calculation with clean UI
+
+* Real-time calculation
+* Clean and responsive UI
 
 ### ✅ To-Do List
 
 🔗 https://github.com/vyankatesh2002/To-Do-List
-→ Simple task management system
 
-### 🌐 Portfolio
+* Task management system
+* Simple and user-friendly interface
+
+### 🌐 Portfolio Website
 
 🔗 https://vyankatesh2002.github.io/
-→ Personal portfolio website
+
+* Personal portfolio
+* Modern UI and animations
 
 ---
 
