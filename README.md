@@ -32,11 +32,18 @@ Now I create performance-driven websites and am moving towards full-stack develo
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-HTML5 · CSS3 · JavaScript (ES6+)
+### Frontend
 
-**Tools**
-Git · GitHub · Figma · SEO
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+### Tools
+
+* Git
+* GitHub
+* Figma
+* SEO
 
 ---
 
@@ -49,12 +56,16 @@ Git · GitHub · Figma · SEO
 * Real-time calculation
 * Clean and responsive UI
 
+---
+
 ### ✅ To-Do List
 
 🔗 https://github.com/vyankatesh2002/To-Do-List
 
 * Task management system
 * Simple and user-friendly interface
+
+---
 
 ### 🌐 Portfolio Website
 
@@ -82,8 +93,8 @@ Git · GitHub · Figma · SEO
 
 ## 📬 Contact
 
-📧 [vyankateshvjaware2002@gmail.com](mailto:vyankateshvjaware2002@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/vyankatesh-jaware-0397a325a
+* 📧 Email: [vyankateshvjaware2002@gmail.com](mailto:vyankateshvjaware2002@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/vyankatesh-jaware-0397a325a
 
 ---
 
