@@ -1,108 +1,86 @@
 # 👋 Hi, I'm Vyankatesh Jaware
 
-🚀 Frontend Developer | Building Real Business Websites
-💡 Focused on performance, clean UI, and real-world impact
+🚀 Web Developer | Built Real Business Website (Prabhune Diamonds)
+⚡ Focused on Performance, SEO & Conversion
+
+---
+
+## 💎 Featured Project
+
+### Prabhune Diamonds Website
+
+🔗 https://prabhunediamond.com
+
+* Developed a complete business website
+* Fully responsive and mobile-first
+* Integrated WhatsApp for direct customer leads
+* Structured for SEO and performance
+
+👉 Live project used by a real business
 
 ---
 
 ## ⚡ About Me
 
-* 🎓 D.Pharm + B.Sc Computer Science (AI/ML/VR)
-* 💻 Frontend Developer (HTML, CSS, JavaScript)
-* 🌍 Based in Maharashtra, India
-* 🧠 Currently improving: JavaScript, C++, and real-world project building
+I build websites that are not just designed — but actually used by businesses.
 
-I focus on **building practical websites that businesses can actually use and grow with** — not just practice projects.
+Started from a small village in Maharashtra, I focused on learning by building real projects instead of just theory.
 
----
-
-## 🚀 Featured Work
-
-### 💎 Prabhune Diamonds Website
-
-🔗 https://prabhunediamond.com
-
-* Built a professional business website
-* Fully responsive design
-* WhatsApp integration for direct inquiries
-* SEO-focused structure
-
-👉 Result: Improved online presence and customer inquiries
-
----
-
-### 🧮 Smart Calculator
-
-🔗 https://github.com/vyankatesh2002/Calculator
-
-* Clean UI, fast performance
-* Real-time calculations
-* Responsive design
-
----
-
-### ✅ To-Do List App
-
-🔗 https://github.com/vyankatesh2002/To-Do-List
-
-* Task management system
-* Simple and user-friendly interface
-* JavaScript-based functionality
+Now I create performance-driven websites and am moving towards full-stack development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Frontend:**
+HTML5 · CSS3 · JavaScript (ES6+)
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
+**Tools:**
+Git · GitHub · Figma · SEO
 
-**Tools**
+---
 
-* Git & GitHub
-* Figma
-* SEO Optimization
+## 🚀 Projects
+
+### 🧮 Calculator
+
+🔗 https://github.com/vyankatesh2002/Calculator
+→ Real-time calculation with clean UI
+
+### ✅ To-Do List
+
+🔗 https://github.com/vyankatesh2002/To-Do-List
+→ Simple task management system
+
+### 🌐 Portfolio
+
+🔗 https://vyankatesh2002.github.io/
+→ Personal portfolio website
 
 ---
 
 ## 📈 Current Focus
 
 * Mastering JavaScript deeply
-* Building real-world projects
-* Moving towards full-stack development
-* Preparing for AI/ML future
+* Building real-world applications
+* Moving towards full-stack (Node.js, MongoDB)
 
 ---
 
-## 🌐 Portfolio
+## 🏗️ Building Next
 
-🔗 https://vyankatesh2002.github.io/
-🔗 https://prabhunediamond.com/portfolio.html
-
----
-
-## 🏗️ What I'm Building
-
-* 🏍️ **Vynora** — Premium ride experience (Nashik)
-* 🤖 **Vandvik** — AI system for human assistance *(in progress)*
+* 🏍️ Vynora — Premium ride service
+* 🤖 Vandvik — AI-based system *(in progress)*
 
 ---
 
 ## 📬 Contact
 
-* 📧 Email: [vyankateshvjaware2002@gmail.com](mailto:vyankateshvjaware2002@gmail.com)
-* 📱 WhatsApp: +91 9960340222
-* 💼 LinkedIn: https://www.linkedin.com/in/vyankatesh-jaware-0397a325a
-* 📸 Instagram: https://www.instagram.com/vyankatesh_jaware
+📧 [vyankateshvjaware2002@gmail.com](mailto:vyankateshvjaware2002@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/vyankatesh-jaware-0397a325a
 
 ---
 
 ## ⚡ Mindset
 
-> I build real things. Improve daily. Think long-term.
-
----
-
-⭐ If you like my work, consider following.
+> Build real things. Stay consistent. Think long-term.
