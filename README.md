@@ -1,103 +1,103 @@
-# 👋 Hi, I'm Vyankatesh Jaware
+# 🚀 Vyankatesh Jaware
 
-🚀 Web Developer | Built Real Business Website (Prabhune Diamonds)
-⚡ Focused on Performance, SEO & Conversion
+💻 Web Developer | Business-Focused Websites  
+📍 Maharashtra, India  
 
 ---
 
-## 💎 Featured Project
+## ⚡ What I Do
 
-### Prabhune Diamonds Website
+I build **high-performance business websites** that generate leads, not just look good.
 
+- Conversion-driven design
+- Mobile-first development
+- SEO-optimized structure
+- Real-world execution for actual clients
+
+---
+
+## 💎 Featured Work
+
+### 🏆 Prabhune Diamonds
 🔗 https://prabhunediamond.com
 
-* Developed a complete business website
-* Fully responsive and mobile-first
-* Integrated WhatsApp for direct customer leads
-* Structured for SEO and performance
-
-👉 Live project used by a real business
-
----
-
-## ⚡ About Me
-
-I build websites that are not just designed — but actually used by businesses.
-
-Started from a small village in Maharashtra, I focused on learning by building real projects instead of just theory.
-
-Now I create performance-driven websites and am moving towards full-stack development.
+- Developed complete website from scratch  
+- Optimized for mobile performance  
+- Integrated WhatsApp lead system  
+- Structured for SEO visibility  
+- Actively used by a real business  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-
-### Tools
-
-* Git
-* GitHub
-* Figma
-* SEO
+**Tools & Workflow**
+- Git & GitHub  
+- Figma (UI/UX Planning)  
+- SEO Optimization  
+- Performance Optimization  
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-### 🧮 Smart Calculator
-
-🔗 https://github.com/vyankatesh2002/Calculator
-
-* Real-time calculation
-* Clean and responsive UI
+### 🧮 Smart Calculator  
+🔗 https://github.com/vyankatesh2002/Calculator  
+- Real-time calculations  
+- Clean, responsive UI  
 
 ---
 
-### ✅ To-Do List
-
-🔗 https://github.com/vyankatesh2002/To-Do-List
-
-* Task management system
-* Simple and user-friendly interface
+### ✅ To-Do List App  
+🔗 https://github.com/vyankatesh2002/To-Do-List  
+- Task management system  
+- JavaScript-driven logic  
 
 ---
 
-### 🌐 Portfolio Website
-
-🔗 https://vyankatesh2002.github.io/
-
-* Personal portfolio
-* Modern UI and animations
+### 🌐 Portfolio Website  
+🔗 https://vyankatesh2002.github.io/  
+- Personal brand platform  
+- Modern UI with animations  
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Direction
 
-* Mastering JavaScript deeply
-* Building real-world applications
-* Moving towards full-stack (Node.js, MongoDB)
+- Deep dive into JavaScript (advanced concepts)  
+- Building scalable real-world applications  
+- Transitioning to Full Stack (Node.js, MongoDB)  
 
 ---
 
 ## 🏗️ Building Next
 
-* 🏍️ Vynora — Premium ride service
-* 🤖 Vandvik — AI-based system *(in progress)*
+- 🏍️ **Vynora** — Premium ride service platform  
+- 🤖 **Vandvik** — AI-powered human assistance system  
+
+---
+
+## ⚡ Strength
+
+- Real project execution  
+- Fast learner with strong adaptability  
+- Business-first development mindset  
 
 ---
 
 ## 📬 Contact
 
-* 📧 Email: [vyankateshvjaware2002@gmail.com](mailto:vyankateshvjaware2002@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/vyankatesh-jaware-0397a325a
+📧 vyankateshvjaware2002@gmail.com  
+💼 https://www.linkedin.com/in/vyankatesh-jaware-0397a325a  
 
 ---
 
 ## ⚡ Mindset
 
-> Build real things. Stay consistent. Think long-term.
+> I don’t build projects for marks.  
+> I build systems that people actually use.
